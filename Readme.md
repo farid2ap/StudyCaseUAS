@@ -1,5 +1,4 @@
-# Farid Achmad Prasetyo
-19.11.2753
+# Farid Achmad Prasetyo - 19.11.2753
 
 # Promos
 Aplikasi sederhana untuk study case yang diberikan dosen untuk tugas UAS. Aplikasi ini berfungsi untuk
